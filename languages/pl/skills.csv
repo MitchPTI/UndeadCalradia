@@ -1,0 +1,84 @@
+skl_trade|Handel
+skl_trade_desc|Każdy poziom tej umiejętności redukuje karę za handel o 5%%. (umiejętność drużyny)
+skl_leadership|Przywództwo
+skl_leadership_desc|Każdy punkt zwiększa o 5 maksymalną liczbę jednostek w oddziale, ponadto zwiększa morale, obniża koszt najmu oraz żołd o 5%%. (umiejętność dowódcy)
+skl_prisoner_management|Zarządzanie więźniami
+skl_prisoner_management_desc|Każdy poziom tej umiejętności zwiększa o %d maksymalną liczbę więźniów. (umiejętność dowódcy)
+skl_reserved_1|Umiejętność zarezerwowana 1
+skl_reserved_1_desc|To jest umiejętność zarezerwowana
+skl_reserved_2|Umiejętność zarezerwowana 2
+skl_reserved_2_desc|To jest umiejętność zarezerwowana
+skl_reserved_3|Umiejętność zarezerwowana 3
+skl_reserved_3_desc|To jest umiejętność zarezerwowana
+skl_reserved_4|Umiejętność zarezerwowana 4
+skl_reserved_4_desc|To jest umiejętność zarezerwowana
+skl_persuasion|Perswazja
+skl_persuasion_desc|Ta umiejętność sprawia, że ludzie przyjmują twój punkt widzenia. Obniża ona również poziom, jaki trzeba posiadać, by nakłonić wybranego NPC do wykonania naszego żądania. (umiejętność osobista)
+skl_engineer|Inżynieria
+skl_engineer_desc|Ta umiejętność pozwala skuteczniej konstruować sprzęt oblężniczy i wprowadzać udoskonalenia lenne. (umiejętność drużyny)
+skl_first_aid|Pierwsza pomoc
+skl_first_aid_desc|Bohaterowie odzyskują podczas misji 5%% utraconych punktów życia na każdym poziomie umiejętności. (umiejętność drużyny)
+skl_surgery|Chirurgia
+skl_surgery_desc|Każdy punkt tej umiejętności zwiększa o 4%% szansę, że śmiertelnie trafiony członek drużyny zostanie ranny, a nie zabity. (umiejętność drużyny)
+skl_wound_treatment|Opatrywanie ran
+skl_wound_treatment_desc|Szybkość leczenia w drużynie rośnie o 20%% z każdym zdobytym poziomem tej umiejętności. (umiejętność drużyny)
+skl_inventory_management|Zarządzanie ekwipunkiem
+skl_inventory_management_desc|Zwiększa pojemność ekwipunku o dodatkowe 6 miejsc z każdym poziomem tej umiejętności. (umiejętność dowódcy)
+skl_spotting|Spostrzegawczość
+skl_spotting_desc|Pole widzenia drużyny rośnie o 10%% z każdym zdobytym poziomem tej umiejętności. (umiejętność drużyny)
+skl_pathfinding|Orientacja w terenie
+skl_pathfinding_desc|Prędkość poruszania się drużyny na mapie wzrasta o 3%% z każdym zdobytym poziomem tej umiejętności. (umiejętność drużyny)
+skl_tactics|Taktyka
+skl_tactics_desc|Każde dwa zdobyte poziomy tej umiejętności zwiększają o 1 początkową przewagę w bitwie. (umiejętność drużyny)
+skl_tracking|Tropienie
+skl_tracking_desc|Tropy zapewniają więcej informacji. (umiejętność drużyny)
+skl_trainer|Szkolenie
+skl_trainer_desc|Codziennie bohaterowie z tą umiejętnością dodają trochę doświadczenia członkom drużyny, których poziom jest niższy. Zdobyte doświadczenie to: {0,4,10,16,23,30,38,46,55,65,80}. (umiejętność osobista)
+skl_reserved_5|Umiejętność zarezerwowana 5
+skl_reserved_5_desc|To jest umiejętność zarezerwowana
+skl_reserved_6|Umiejętność zarezerwowana 6
+skl_reserved_6_desc|To jest umiejętność zarezerwowana
+skl_reserved_7|Umiejętność zarezerwowana 7
+skl_reserved_7_desc|To jest umiejętność zarezerwowana
+skl_reserved_8|Umiejętność zarezerwowana 8
+skl_reserved_8_desc|To jest umiejętność zarezerwowana
+skl_looting|Zdobywanie łupów
+skl_looting_desc|Ta umiejętność zwiększa liczbę uzyskanych łupów o 10%% z każdym poziomem umiejętności. (umiejętność drużyny)
+skl_horse_archery|Strzelanie z siodła
+skl_horse_archery_desc|Redukuje karę do obrażeń oraz celności strzelających z łuków i rzucających podczas jazdy konnej. (umiejętność osobista)
+skl_riding|Jazda konna
+skl_riding_desc|Umożliwia dosiadanie coraz bardziej nieokiełznanych koni oraz zwiększa prędkość jazdy i zwrotność. (umiejętność osobista)
+skl_athletics|Atletyka
+skl_athletics_desc|Zwiększa prędkość biegu. (umiejętność osobista)
+skl_shield|Posługiwanie się tarczą
+skl_shield_desc|Redukuje uszkodzenia tarcz (o 8%% z każdym zdobytym poziomem umiejętności), poprawia refleks i skuteczność obrony tarczą. (umiejętność osobista)
+skl_weapon_master|Władanie bronią
+skl_weapon_master_desc|Zwiększa limity biegłości w posługiwaniu się bronią. Limity są następujące: 60, 100, 140, 180, 220, 260, 300, 340, 380, 420. (umiejętność osobista)
+skl_reserved_9|Umiejętność zarezerwowana 9
+skl_reserved_9_desc|To jest umiejętność zarezerwowana
+skl_reserved_10|Umiejętność zarezerwowana 10
+skl_reserved_10_desc|To jest umiejętność zarezerwowana
+skl_reserved_11|Umiejętność zarezerwowana 11
+skl_reserved_11_desc|To jest umiejętność zarezerwowana
+skl_reserved_12|Umiejętność zarezerwowana 12
+skl_reserved_12_desc|To jest umiejętność zarezerwowana
+skl_reserved_13|Umiejętność zarezerwowana 13
+skl_reserved_13_desc|To jest umiejętność zarezerwowana
+skl_power_draw|Siła naciągu
+skl_power_draw_desc|Pozwala korzystać z potężniejszych łuków. Każdy punkt tej umiejętności (do naciągania łuku wymagana jest siła >4) zwiększa obrażenia zadawane przez strzały o 14%%. (umiejętność osobista)
+skl_power_throw|Siła rzutu
+skl_power_throw_desc|Każdy punkt tej umiejętności zwiększa obrażenia wywoływane rzutami o 10%%. (umiejętność osobista)
+skl_power_strike|Siła uderzenia
+skl_power_strike_desc|Każdy punkt tej umiejętności zwiększa obrażenia wywoływane ciosami broni o 8%%. (umiejętność osobista)
+skl_ironflesh|Wytrzymałość
+skl_ironflesh_desc|Każdy punkt tej umiejętności zwiększa punkty życia o 2. (umiejętność osobista)
+skl_reserved_14|Umiejętność zarezerwowana 14
+skl_reserved_14_desc|To jest umiejętność zarezerwowana
+skl_reserved_15|Umiejętność zarezerwowana 15
+skl_reserved_15_desc|To jest umiejętność zarezerwowana
+skl_reserved_16|Umiejętność zarezerwowana 16
+skl_reserved_16_desc|To jest umiejętność zarezerwowana
+skl_reserved_17|Umiejętność zarezerwowana 17
+skl_reserved_17_desc|To jest umiejętność zarezerwowana
+skl_reserved_18|Umiejętność zarezerwowana 18
+skl_reserved_18_desc|To jest umiejętność zarezerwowana

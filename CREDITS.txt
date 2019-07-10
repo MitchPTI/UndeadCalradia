@@ -1,0 +1,12 @@
+Skeleton models (including skeletal horses) by barf: http://www.nexusmods.com/mountandblade/mods/1912/?
+Note: The above link doesn't include the horse model; I couldn't find an original link to it, only found it in another mod (Rise of the Undead: http://www.moddb.com/mods/rise-of-the-undead) credited to barf
+
+The Crowned Helm worn by Pestilence is an asset from 1257 AD: http://www.moddb.com/mods/anno-domini-1257
+
+Some scripting was borrowed from Silverstag: http://www.moddb.com/mods/silverstag
+
+The undead troop type and assets are originally from Native, but I couldn't get them properly working without a BRF from Prophey of Pendor (http://www.moddb.com/mods/saxondragon), which re-enables them.
+
+The source uses Lav's Warband Refined & Enhanced Compiler Kit: http://forums.taleworlds.com/index.php/topic,324874.0.html
+
+If you believe I've missed any credits, please just let me know and I'll be happy to add them.
