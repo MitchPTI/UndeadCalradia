@@ -63,7 +63,7 @@ ghouls_and_skellies = [
 	[itm_skeletal_horse, itm_mail_hauberk, itm_mail_boots, itm_mail_mittens, itm_full_helm, itm_sword_medieval_d_long, itm_tab_shield_round_e],
 	str_24|agi_30|level(30), wp(210), knows_riding_9|knows_athletics_10|knows_shield_5|knows_power_draw_3|knows_power_strike_10|knows_ironflesh_10, 0, 0],
 	["skeleton_death_knight", "Skeleton Death Knight", "Skeleton Death Knight", tf_undead|tf_allways_fall_dead|tf_mounted|tf_guarantee_all_wo_ranged, no_scene, 0, fac_undeads,
-	[itm_skeletal_horse, itm_glowing_helmet, itm_glowing_armor, itm_demonic_boots, itm_demonic_gauntlets, itm_steel_shield, itm_spak_iceaxe, itm_kingslayer],
+	[itm_heavy_riper, itm_glowing_helmet, itm_glowing_armor, itm_demonic_boots, itm_demonic_gauntlets, itm_steel_shield, itm_spak_iceaxe, itm_kingslayer],
 	str_35|agi_30|level(40), wp(270), knows_riding_10|knows_athletics_10|knows_shield_9|knows_power_draw_3|knows_power_strike_10|knows_ironflesh_10, 0, 0]
 ]
 
