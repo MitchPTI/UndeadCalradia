@@ -42,7 +42,7 @@ ghouls_and_skellies = [
 	[itm_fur_hat, itm_mail_hauberk, itm_byrnie, itm_haubergeon, itm_mail_boots, itm_sword_medieval_d_long, itm_steel_shield, itm_throwing_axes, itm_light_throwing_axes, itm_heavy_throwing_axes],
 	str_35|agi_20|level(15), wpe(190,190,190,300), knows_athletics_10|knows_power_throw_8|knows_power_strike_8|knows_ironflesh_10, 0, 0],
 	["ghoul_hulk", "Ghoul Hulk", "Ghoul Hulk", tf_undead|tf_allways_fall_dead|tf_guarantee_boots|tf_guarantee_armor|tf_guarantee_helmet|tf_guarantee_gloves, no_scene, 0, fac_undeads,
-	[itm_two_handed_cleaver, itm_two_handed_axe, itm_sword_two_handed_a, itm_sarranid_two_handed_axe_a, itm_sarranid_two_handed_axe_b, itm_coat_of_plates, itm_coat_of_plates_red],
+	[itm_helm07, itm_spak_coat_of_plates_a, itm_spak_black_boots, itm_spak_black_gauntlets, itm_spak_iceaxe],
 	str_50|agi_5|level(19), wp(200), knows_athletics_1|knows_power_strike_9|knows_ironflesh_10, 0, 0],
 	["skeleton_footman", "Skeleton Footman", "Skeleton Footman", tf_skeleton|tf_allways_fall_dead|tf_guarantee_boots|tf_guarantee_armor|tf_guarantee_helmet|tf_guarantee_gloves|tf_guarantee_shield, no_scene, 0, fac_undeads,
 	[itm_ashwood_pike, itm_military_scythe, itm_spear, itm_glaive, itm_scythe, itm_battle_fork, itm_nordic_shield, itm_wooden_shield, itm_fur_covered_shield],
@@ -63,7 +63,7 @@ ghouls_and_skellies = [
 	[itm_skeletal_horse, itm_mail_hauberk, itm_mail_boots, itm_mail_mittens, itm_full_helm, itm_sword_medieval_d_long, itm_tab_shield_round_e],
 	str_24|agi_30|level(30), wp(210), knows_riding_9|knows_athletics_10|knows_shield_5|knows_power_draw_3|knows_power_strike_10|knows_ironflesh_10, 0, 0],
 	["skeleton_death_knight", "Skeleton Death Knight", "Skeleton Death Knight", tf_undead|tf_allways_fall_dead|tf_mounted|tf_guarantee_all_wo_ranged, no_scene, 0, fac_undeads,
-	[itm_skeletal_horse, itm_great_helmet, itm_black_armor, itm_black_greaves, itm_gauntlets, itm_steel_shield, itm_spak_iceaxe, itm_kingslayer],
+	[itm_skeletal_horse, itm_glowing_helmet, itm_glowing_armor, itm_demonic_boots, itm_demonic_gauntlets, itm_steel_shield, itm_spak_iceaxe, itm_kingslayer],
 	str_35|agi_30|level(40), wp(270), knows_riding_10|knows_athletics_10|knows_shield_9|knows_power_draw_3|knows_power_strike_10|knows_ironflesh_10, 0, 0]
 ]
 
