@@ -50,7 +50,7 @@ ghouls_and_skellies = [
 	["skeleton_infantry", "Skeleton Infantry", "Skeleton Infantry", tf_skeleton|tf_allways_fall_dead|tf_guarantee_boots|tf_guarantee_armor|tf_guarantee_helmet|tf_guarantee_gloves|tf_guarantee_shield, no_scene, 0, fac_undeads,
 	[itm_ashwood_pike, itm_military_scythe, itm_spear, itm_glaive, itm_scythe, itm_battle_fork, itm_nordic_shield, itm_wooden_shield, itm_fur_covered_shield, itm_nordic_fighter_helmet],
 	str_12|agi_30|level(18), wp(140), knows_riding_4|knows_athletics_10|knows_shield_7|knows_power_draw_3|knows_power_strike_6|knows_ironflesh_10, 0, 0],
-	["skeleton_rider", "Skeleton Rider", "Skeleton Riders", tf_skeleton|tf_allways_fall_dead|tf_mounted|tf_guarantee_all_wo_ranged, no_scene, 0, fac_undeads,
+	["skeleton_rider", "War Rider", "War Riders", tf_skeleton|tf_allways_fall_dead|tf_mounted|tf_guarantee_all_wo_ranged, no_scene, 0, fac_undeads,
 	[itm_zombi_horse, itm_zombi_horse2, itm_mail_shirt, itm_pickaxe_hand, itm_sp_shr1, itm_mail_mittens, itm_iron_greaves, itm_2kettle_hat_new],
 	str_15|agi_30|level(18), wp(140), knows_riding_5|knows_athletics_10|knows_shield_5|knows_power_draw_3|knows_power_strike_6|knows_ironflesh_10, 0, 0],
 	["skeleton_heavy_infantry", "Skeleton Heavy Infantry", "Skeleton Heavy Infantrys", tf_skeleton|tf_allways_fall_dead|tf_guarantee_boots|tf_guarantee_armor|tf_guarantee_helmet|tf_guarantee_gloves|tf_guarantee_shield, no_scene, 0, fac_undeads,

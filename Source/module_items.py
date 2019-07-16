@@ -1224,6 +1224,51 @@ items = [
  1, weight(3)|abundance(100)|head_armor(0)|body_armor(0)|leg_armor(1) ,imodbits_armor ],
 ["warhorse_sarranid","Sarranian War Horse", [("warhorse_sarranid",0)], itp_merchandise|itp_type_horse, 0, 1811,abundance(40)|hit_points(165)|body_armor(58)|difficulty(4)|horse_speed(40)|horse_maneuver(44)|horse_charge(32)|horse_scale(112),imodbits_horse_basic|imodbit_champion, [], [fac_kingdom_6]],
 ["warhorse_steppe","Steppe Charger", [("warhorse_steppe",0)], itp_merchandise|itp_type_horse, 0, 1400,abundance(45)|hit_points(150)|body_armor(40)|difficulty(4)|horse_speed(40)|horse_maneuver(50)|horse_charge(28)|horse_scale(112),imodbits_horse_basic|imodbit_champion, [], [fac_kingdom_3,fac_kingdom_2]],
+["zitta_bascinet_novisor", "Bascinet", [("zitta_bascinet_novisor",0), ("inv_zitta_bascinet_novisor",ixmesh_inventory)], itp_merchandise| itp_type_head_armor | itp_attach_armature,0, 479 , weight(2)|abundance(100)|head_armor(46)|body_armor(0)|leg_armor(0)|difficulty(7) ,imodbits_plate ],
+
+["zitta_bascinet", "Klappvisier Bascinet", [("zitta_bascinet",0), ("inv_zitta_bascinet",ixmesh_inventory)], itp_merchandise| itp_type_head_armor|itp_covers_head | itp_attach_armature,0, 1180 , weight(2.75)|abundance(100)|head_armor(56)|body_armor(0)|leg_armor(0)|difficulty(9) ,imodbits_plate ],
+
+["brigandine_red", "Brigandine", [("brigandine_red",0)], itp_merchandise| itp_type_body_armor|itp_covers_legs,0,
+ 1830 , weight(17)|abundance(100)|head_armor(0)|body_armor(46)|leg_armor(12)|difficulty(7) ,imodbits_armor ],
+
+["brigandine_green", "Brigandine", [("brigandine_green",0)], itp_merchandise| itp_type_body_armor|itp_covers_legs,0,
+ 1830 , weight(17)|abundance(100)|head_armor(0)|body_armor(46)|leg_armor(12)|difficulty(7) ,imodbits_armor ],
+
+["brigandine_blue", "Brigandine", [("brigandine_blue",0)], itp_merchandise| itp_type_body_armor|itp_covers_legs,0,
+ 1830 , weight(17)|abundance(100)|head_armor(0)|body_armor(46)|leg_armor(12)|difficulty(7) ,imodbits_armor ],
+
+["narf_hose", "Woolen Hose", [("narf_hose",0)], itp_merchandise| itp_type_foot_armor |itp_civilian | itp_attach_armature ,0,
+ 6 , weight(1)|abundance(100)|head_armor(0)|body_armor(0)|leg_armor(4)|difficulty(0) ,imodbits_cloth ],
+
+["brigandine_red_mail", "Brigandine", [("brigandine_red_mail",0)], itp_merchandise| itp_type_body_armor|itp_covers_legs,0,
+ 2130 , weight(20)|abundance(100)|head_armor(0)|body_armor(50)|leg_armor(12)|difficulty(8) ,imodbits_armor ],
+
+["brigandine_green_mail", "Brigandine", [("brigandine_green_mail",0)], itp_merchandise| itp_type_body_armor|itp_covers_legs,0,
+ 2130 , weight(20)|abundance(100)|head_armor(0)|body_armor(50)|leg_armor(12)|difficulty(8) ,imodbits_armor ],
+
+["brigandine_blue_mail", "Brigandine", [("brigandine_blue_mail",0)], itp_merchandise| itp_type_body_armor|itp_covers_legs,0,
+ 2130 , weight(20)|abundance(100)|head_armor(0)|body_armor(50)|leg_armor(12)|difficulty(8) ,imodbits_armor ],
+
+["hose_kneecops_red", "Woolen Hose with Kneecops", [("hose_kneecops_red",0)], itp_merchandise| itp_type_foot_armor |itp_civilian | itp_attach_armature ,0,
+ 760 , weight(2)|abundance(100)|head_armor(0)|body_armor(0)|leg_armor(25)|difficulty(6) ,imodbits_cloth ],
+
+["hose_kneecops_green", "Woolen Hose with Kneecops", [("hose_kneecops_green",0)], itp_merchandise| itp_type_foot_armor |itp_civilian | itp_attach_armature ,0,
+ 760 , weight(2)|abundance(100)|head_armor(0)|body_armor(0)|leg_armor(25)|difficulty(6) ,imodbits_cloth ],
+
+["aketon", "Aketon", [("aketon",0)], itp_merchandise| itp_type_body_armor|itp_covers_legs|itp_civilian,0,
+ 325 , weight(6)|abundance(100)|head_armor(0)|body_armor(26)|leg_armor(5)|difficulty(0) ,imodbits_cloth ],
+
+["chapel-de-fer_mail1", "Chapel-de-Fer", [("chapel-de-fer_mail1",0), ("inv_chapel-de-fer_mail1",ixmesh_inventory)], itp_merchandise| itp_type_head_armor | itp_attach_armature,0, 325 , weight(2.75)|abundance(100)|head_armor(42)|body_armor(0)|leg_armor(0)|difficulty(7) ,imodbits_plate ],
+
+["chapel-de-fer_mail2", "Chapel-de-Fer", [("chapel-de-fer_mail2",0), ("inv_chapel-de-fer_mail2",ixmesh_inventory)], itp_merchandise| itp_type_head_armor | itp_attach_armature,0, 325 , weight(2.75)|abundance(100)|head_armor(42)|body_armor(0)|leg_armor(0)|difficulty(7) ,imodbits_plate ],
+
+["chapel-de-fer_mail3", "Chapel-de-Fer", [("chapel-de-fer_mail3",0), ("inv_chapel-de-fer_mail3",ixmesh_inventory)], itp_merchandise| itp_type_head_armor | itp_attach_armature,0, 325 , weight(2.75)|abundance(100)|head_armor(42)|body_armor(0)|leg_armor(0)|difficulty(7) ,imodbits_plate ],
+
+["chapel-de-fer_cloth1", "Chapel-de-Fer", [("chapel-de-fer_cloth1",0), ("inv_chapel-de-fer_cloth1",ixmesh_inventory)], itp_merchandise| itp_type_head_armor | itp_attach_armature,0, 325 , weight(2.75)|abundance(100)|head_armor(42)|body_armor(0)|leg_armor(0)|difficulty(7) ,imodbits_plate ],
+
+["chapel-de-fer_cloth2", "Chapel-de-Fer", [("chapel-de-fer_cloth2",0), ("inv_chapel-de-fer_cloth2",ixmesh_inventory)], itp_merchandise| itp_type_head_armor | itp_attach_armature,0, 325 , weight(2.75)|abundance(100)|head_armor(42)|body_armor(0)|leg_armor(0)|difficulty(7) ,imodbits_plate ],
+
+["chapel-de-fer_cloth3", "Chapel-de-Fer", [("chapel-de-fer_cloth3",0), ("inv_chapel-de-fer_cloth3",ixmesh_inventory)], itp_merchandise| itp_type_head_armor | itp_attach_armature,0, 325 , weight(2.75)|abundance(100)|head_armor(42)|body_armor(0)|leg_armor(0)|difficulty(7) ,imodbits_plate ],
 
 ##diplomacy begin
 ["dplmc_coat_of_plates_red_constable", "Constable Coat of Plates", [("coat_of_plates_red",0)], itp_unique|itp_type_body_armor|itp_covers_legs|itp_civilian,0,
