@@ -39,7 +39,7 @@ new_start_operations = [
 	#(party_add_members, "p_main_party", "trp_horseman_war", 1),
 	#(party_add_members, "p_main_party", "trp_horseman_famine", 1),
 	#(party_add_members, "p_main_party", "trp_horseman_death", 1),
-	(party_add_members, "p_main_party", "trp_skeleton_death_knight", 100),
+	#(party_add_members, "p_main_party", "trp_skeleton_death_knight", 100),
 	(troop_add_item, "trp_player", "itm_spak_IceAxe"),
 	(troop_add_item, "trp_player", "itm_kingslayer"),
 	(troop_add_item, "trp_player", "itm_demonic_boots"),
@@ -48,10 +48,11 @@ new_start_operations = [
 	(troop_add_item, "trp_player", "itm_splate_armor2"),
 ]
 
-for troop in troops[find_troop(troops, soldiers_begin):find_troop(troops, soldiers_end)]:
+for troop in troops[find_troop(troops, soldiers_begin[len("trp_"):]):find_troop(troops, soldiers_end[len("trp_"):])]:
 	flags = troop[3]
 	if (flags & tf_hero) == 0 and (flags & troop_type_mask) < tf_undead and not troop[0].startswith("undead_"):
 		new_start_operations.append((troop_set_slot, "trp_" + troop[0], undead_slot_troop_undead, "trp_undead_" + troop[0]))
+		#print((troop_set_slot, "trp_" + troop[0], undead_slot_troop_undead, "trp_undead_" + troop[0]))
 
 party_encounter_operations = [
 	(party_clear, "p_recruitable_undead"),

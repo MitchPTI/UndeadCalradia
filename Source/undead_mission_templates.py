@@ -83,7 +83,7 @@ process_casualty = (
 					(store_random_in_range, ":rand", 0, 2),
 					(eq, ":rand", 0),
 					
-					(party_add_members, "p_recruitable_undead", "trp_skeleton_footman", 1),
+					(party_add_members, "p_recruitable_undead", "trp_skeleton", 1),
 					#(display_message, "@Adding skeleton"),
 				(else_try),
 					(party_add_members, "p_recruitable_undead", "trp_ghoul", 1),

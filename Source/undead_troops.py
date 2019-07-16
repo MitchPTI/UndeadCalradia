@@ -74,7 +74,7 @@ def modmerge(var_set):
 		
 		undead_troops = []
 		
-		for troop in orig_troops[find_troop(orig_troops, soldiers_begin):find_troop(orig_troops, soldiers_end)]:
+		for troop in orig_troops[find_troop(orig_troops, soldiers_begin[len("trp_"):]):find_troop(orig_troops, soldiers_end[len("trp_"):])]:
 			if (troop[TROOP_FLAGS] & tf_hero) != tf_hero and (troop[TROOP_FLAGS] & tf_undead) != tf_undead:
 				undead_troop = list(troop[TROOP_ID:TROOP_IMAGE])
 				undead_troop[TROOP_FLAGS] = (troop[TROOP_FLAGS] & (troop[TROOP_FLAGS] ^ troop_type_mask)) | tf_undead | tf_allways_fall_dead | tf_guarantee_gloves
