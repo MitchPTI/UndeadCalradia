@@ -41,11 +41,10 @@ new_start_operations = [
 	#(party_add_members, "p_main_party", "trp_horseman_death", 1),
 	#(party_add_members, "p_main_party", "trp_skeleton_death_knight", 100),
 	(troop_add_item, "trp_player", "itm_spak_IceAxe"),
-	(troop_add_item, "trp_player", "itm_kingslayer"),
-	(troop_add_item, "trp_player", "itm_demonic_boots"),
-	(troop_add_item, "trp_player", "itm_demonic_gauntlets"),
-	(troop_add_item, "trp_player", "itm_helm07"),
-	(troop_add_item, "trp_player", "itm_splate_armor2"),
+	(troop_add_item, "trp_player", "itm_twilight_boots"),
+	(troop_add_item, "trp_player", "itm_twilight_gloves"),
+	(troop_add_item, "trp_player", "itm_demonrobe"),
+	(troop_add_item, "trp_player", "itm_demon_hood"),
 ]
 
 for troop in troops[find_troop(troops, soldiers_begin[len("trp_"):]):find_troop(troops, soldiers_end[len("trp_"):])]:
